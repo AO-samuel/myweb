@@ -1,0 +1,8 @@
+body{
+    background-color: grey;
+}
+.navbar-brand{
+    margin-right: 200px;
+    padding: 5px;
+    font-weight: 600;
+}
